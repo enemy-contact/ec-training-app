@@ -1,0 +1,1 @@
+# ec-training-app
